@@ -21,3 +21,5 @@ The objective of this work, is to present what is to our knowledge the first stu
 
 -run the python script "script.py" 
 
+Acknowledgemts:
+This work is part of the project "Thematic Center on Mountain Ecosystem & Remote sensing, Deep learning-AI e-Services University of Granada-Sierra Nevada" (LifeWatch-2019-10-UGR-01), which has been co-funded by the Ministry of Science and Innovation through the FEDER funds from the Spanish Pluriregional Operational Program 2014-2020 (POPE), LifeWatch-ERIC action line, within the Workpackages LifeWatch-2019-10-UGR-01_WP-8, LifeWatch-2019-10-UGR-01_WP-7 and LifeWatch-2019-10-UGR-01_WP-4.
