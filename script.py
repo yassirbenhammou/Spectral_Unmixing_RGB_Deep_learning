@@ -10,7 +10,6 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-
 ##################################################### Paths to the input data ##############################################
 
 Images_absolute_path='./input/RGB satellite images folder/'
