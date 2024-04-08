@@ -23,7 +23,7 @@ merged_dataframe=pd.read_csv('./input/Environmental ancillary data CSV file.csv'
 
 
 ##################################################### Check if the input data is valid ##############################################
-
+print("starting...")
 print("Input data verification....")
 
 RGB_Images=[]
